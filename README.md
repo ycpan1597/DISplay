@@ -5,10 +5,9 @@ Husky ADAPT DISplay
 # LOGO
 
 # Group PROJECT 
-Husky ADAPT repo: please add your team description here!
+Our group aims to create a collaborative play environment that suits all sorts of disabilities so kids of all background can enjoy the fun and benefit of playing. 
 
-Project Pages site HuskyADAPT.github.io/<GroupName>	
-you can change what's on the website by either changing the markdown file on master or a /docs folder on master
+Project Pages site HuskyADAPT.github.io/DISplay
 
 
 ## Screenshots
