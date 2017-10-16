@@ -13,9 +13,9 @@ Project Pages site HuskyADAPT.github.io/DISplay
 ## Screenshots
 
 ## Authors
-Joseph Lawler
-Amy Larsen
-Erica Lee
-Preston Pan
-Kotoko Yamada
+Joseph Lawler <br>
+Amy Larsen <br>
+Erica Lee <br>
+Preston Pan <br>
+Kotoko Yamada <br>
 
