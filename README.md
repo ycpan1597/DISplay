@@ -1,6 +1,6 @@
 # DISplay
 Husky ADAPT DISplay
-hello world
+
 
 # LOGO
 Coming! 
