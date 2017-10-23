@@ -3,7 +3,7 @@ Husky ADAPT DISplay
 
 # Lorem Ipsum
 
-Test
+<div style="width: 200px; height: 200px; color: blue;"></div>
 
 
 # LOGO
