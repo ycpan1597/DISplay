@@ -1,11 +1,6 @@
 # DISplay
 Husky ADAPT DISplay
 
-# Lorem Ipsum
-
-<div style="width: 200px; height: 200px; color: blue;"></div>
-
-
 # LOGO
 Coming! 
 # Group PROJECT 
@@ -15,6 +10,8 @@ Project Pages site HuskyADAPT.github.io/DISplay
 
 
 ## Screenshots
+### Team Discussion
+![First Team Discussion] (First Team Discussion.jpg)
 
 ## Authors
 Joseph Lawler <br>
