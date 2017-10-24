@@ -13,6 +13,9 @@ Project Pages site HuskyADAPT.github.io/DISplay
 ### Team Discussion
 ![First Team Discussion](First Team Discussion.jpg)
 
+### Website Development
+![Website Development with Dean](Website Development.jpg)
+
 ## Authors
 Joseph Lawler <br>
 Amy Larsen <br>
