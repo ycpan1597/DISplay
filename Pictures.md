@@ -1,5 +1,4 @@
 ---
-title: Pictures
 layout: default
 ---
 ## Team Discussion
