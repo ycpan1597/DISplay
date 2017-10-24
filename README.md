@@ -11,7 +11,7 @@ Project Pages site HuskyADAPT.github.io/DISplay
 
 ## Screenshots
 ### Team Discussion
-![First Team Discussion](DISplay/First Team Discussion.jpg)
+![First Team Discussion](First Team Discussion.jpg)
 
 ## Authors
 Joseph Lawler <br>
