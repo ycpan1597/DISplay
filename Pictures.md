@@ -1,7 +1,7 @@
 ---
 title: Pictures
 layout: default
-___
+---
 ## Team Discussion
 ![First Team Discussion](First Team Discussion.jpg)
 
