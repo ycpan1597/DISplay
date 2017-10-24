@@ -10,7 +10,8 @@ Our group aims to create a collaborative play environment that suits all sorts o
 Project Pages site HuskyADAPT.github.io/DISplay
 
 
-# Screenshots
+<a href="Pictures.md"># Pictures</a>
+
 ## Team Discussion
 ![First Team Discussion](First Team Discussion.jpg)
 
