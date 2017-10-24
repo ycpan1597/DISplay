@@ -10,7 +10,10 @@ Our group aims to create a collaborative play environment that suits all sorts o
 Project Pages site HuskyADAPT.github.io/DISplay
 
 
-<a href="Pictures.md"><h1>Pictures</h1></a>
+<a href="Pictures.md"><h1>Pictures - link in progress</h1></a>
+
+# Pictures
+
 
 # Authors
 Joseph Lawler <br>
