@@ -13,7 +13,11 @@ Project Pages site HuskyADAPT.github.io/DISplay
 <a href="Pictures.md"><h1>Pictures - link in progress</h1></a>
 
 # Pictures
+## Team Discussion
+![First Team Discussion](First Team Discussion.jpg)
 
+## Website Development
+![Website Development with Dean](Website Development.jpg)
 
 # Authors
 Joseph Lawler <br>
